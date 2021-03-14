@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Fertigo_PRO
+font link: https://www.fontspring.com/fonts/exljbris/fertigo-pro/fertigo-pro-regular
+font author: Exljbris
+font author site: https://www.exljbris.com/
+
+
+icon designer: Berkah Icon
+icon designer link: /berkahicon
+        
+
+fontColor: {"gradient-0":"#C2C2C2","gradient-1":"#5BB7D0"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#C2C2C2","gradient-1":"#5BB7D0"}
+
+      
