@@ -1,5 +1,4 @@
-# logo webstream.dev
-[logo.webstream.dev](https://logo.webstream.dev)
+# [logo.webstream.dev](https://logo.webstream.dev)
 
 
 # Font
@@ -30,10 +29,18 @@ and licensed under
 # Logo
 
 ## 1
-![1/cover.png](1/cover.png)
+![1/cover.png](https://web-stream.github.io/logo/1/cover.png)
 
 ## 2
-![2/cover.png](2/cover.png)
+![2/cover.png](https://web-stream.github.io/logo/2/cover.png)
 
 ## 3
-![3/cover.png](3/cover.png)
+![3/cover.png](https://web-stream.github.io/logo/3/cover.png)
+
+
+---
++ [edit](https://github.com/web-stream/logo/edit/main/README.md)
+
+```
+https://github.com/web-stream/logo.git
+```
